@@ -1,0 +1,29 @@
+{
+  "expectedStrings": {
+	  "expectedAlertTextClickButtonToSeeAlert": "You clicked a button",
+	   "expectedConfirmBoxAlertText": "Do you confirm action?",	
+	   "expectedConfirmBoxTextOnPage": "You selected Ok",
+	   "expectedPromptAlertText": "Please enter your name",
+	   "expectedIFrameText": "Parent frame Child Iframe"
+	 },	   
+  "table": [
+    {
+      "user": 1,
+      "first name": "Jon",
+      "last name": "Snow",
+      "email": "knownothing@gmail.com",
+      "age": 30,
+      "salary": 3000,
+      "department": "alpha"
+    },
+    {
+      "user": 2,
+      "first name": "Buttercup",
+      "last name": "Cumbersnatch",
+      "email": "BudapestCandygram@mail.io",
+      "age": 41,
+      "salary": 2000,
+      "department": "beta"
+    }
+   ]
+  }

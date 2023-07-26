@@ -1,0 +1,14 @@
+{
+	"browser": "chrome",
+	
+	"chromearguments": [ "--incognito",
+	
+				"--remote-allow-origins=*"	
+				 ],	
+	"firefoxarguments": "-private",	
+	
+	"url": "https://demoqa.com/",
+	
+	"wait": 10
+	
+}
